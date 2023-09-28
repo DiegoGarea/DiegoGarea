@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diego Gonzalez G</h1>
 <h3 align="center">A passionate frontend developer from Mexico</h3>
 
-![1694982353158](https://github.com/DiegoGarea/DiegoGarea/assets/124759506/d6e8af34-2630-4a6c-a249-5716afbf6b29)
+<img align="center" ![1694982353158](https://github.com/DiegoGarea/DiegoGarea/assets/124759506/d6e8af34-2630-4a6c-a249-5716afbf6b29) />
 
 
 
